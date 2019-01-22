@@ -1,0 +1,43 @@
+---
+title: "Interview Attendance Prediction Project"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+What is the problem you're trying to solve?
+Can I predict who will show up for a job interview and who won't?
+
+
+Who is your client and why do they care about this problem? In other words, what will your client DO or DECIDE based on your analysis that they wouldn't have otherwise?
+
+My client is an HR Dept that is losing valuable time with job interviewees not showing up. 
+
+What data are you going to use for this? How will you acquire this data?
+
+There is the dataset on Kaggle <https://www.kaggle.com/vishnusraghavan/the-interview-attendance-problem/version/3>.
+
+In brief, outline your approach to solving this problem (knowing that this might change later).
+
+The first step will be getting the data into R, and loading the dataset to see the structure of the data.
+
+Cleaning the Data
+Exploratory Data Analysis
+
+
+What are your deliverables? Typically, this would include code, along with a paper and/or a slide deck.
+
+The deliverables are an R Markdown document that includes the code, narration, plan, and results.
+I will also creat a slideshow from R Markdown to explain the project.
+
+**Importing Data**
+
+
+
+
+
+
